@@ -1,0 +1,9 @@
+git init- inicializa el repositorio de git
+git add . – Agrega todos los cambios en todos los archivos al área de staging
+git status – Para ver el estado de la BD sí se han hecho cambios, pero no se han agregado, ahí saldrá
+git show - Muestra todos los cambios históricos hechos y sus detalles (qé cambió, cuándo y quién los hizo)
+git commit -m -Agrega definitivamente los cambios hechos al repositorio, se puede poner un comentario para indicar que cambió
+git push -envía los cambios al repositorio remoto
+git pull -Agrega los cambios del commit más nuevo al repositorio local
+
+$ git config --global alias.superlog log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
