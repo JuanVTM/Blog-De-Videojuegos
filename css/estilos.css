@@ -5,3 +5,10 @@ body
     text-align: center;
     font-family: "Arial";
 }
+#Contenedor{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid black;
+    margin: 0px auto;
+}
