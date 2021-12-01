@@ -12,10 +12,20 @@ body
     border: 1px solid black;
     margin: 0px auto;
 }
+<<<<<<< HEAD
 #Texto{
     color: black;
     text-align: center;
     font-style: normal;
     font-size: 20px;
     font-family: Arial;
+=======
+#Titulo{
+    background: #33A;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow: 0px 2px 50px 0px rgba(0,0,0, 0.5);
+>>>>>>> cabecera
 }
