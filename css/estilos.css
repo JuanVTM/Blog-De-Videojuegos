@@ -12,3 +12,10 @@ body
     border: 1px solid black;
     margin: 0px auto;
 }
+#Texto{
+    color: black;
+    text-align: center;
+    font-style: normal;
+    font-size: 20px;
+    font-family: Arial;
+}
