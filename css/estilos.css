@@ -7,6 +7,7 @@ body
 }
 #Contenedor{
     width: 70%;
+    background: white;
     padding: 1em;
     text-align: center;
     border: 1px solid black;
