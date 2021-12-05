@@ -7,7 +7,6 @@ body
 }
 #Contenedor{
     width: 70%;
-    padding: 1em;
     text-align: center;
     border: 1px solid black;
     margin: 0px auto;
@@ -21,6 +20,7 @@ body
     box-shadow: 0px 2px 50px 0px rgba(0,0,0, 0.5);
 }
 #footer{
-    text-align: left;
+    text-align: center;
     color: black;
+    background: #777;
 }
